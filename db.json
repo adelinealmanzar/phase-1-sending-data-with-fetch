@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,15 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Bryan",
+      "dogBreed": "Poodle",
+      "id": 3
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +28,198 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 13
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 14
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 15
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 16
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 17
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 18
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 19
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 20
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 21
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 22
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 23
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 24
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 25
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 26
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 27
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 28
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 29
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 30
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 31
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 32
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 33
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 34
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 35
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 36
+    },
+    {
+      "name": "adeline",
+      "email": "almanzar.adeline@gmail.com",
+      "id": 37
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
